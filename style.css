@@ -94,3 +94,12 @@
   margin-top: 25%;
   margin-left: 15%;
 }
+
+.LinhaCinza {
+  height: 2%;
+  width: 100%;
+  margin-top: 50%;
+  margin-left: 40%;
+  position: absolute;
+  border: solid;
+}
