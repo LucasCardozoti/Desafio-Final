@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+  }
+
+#FundoHeader {
+  display: flex;
+}
+
+.Logo {
+  display: flex;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  /* border: solid; */
+} 
+
+.Star {
+  height: 12%;
+  width: 28%;
+  margin-top: 23.7%;
+  margin-left: 15%;
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  z-index: 2;
+}
+
+.Wars {
+  height: 12%;
+  width: 28%;
+  margin-top: 23.7%;
+  margin-left: 64.8%;
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  z-index: 2;
+  /* border: solid; */
+}
+
+.Kylo {
+  height: 100%;
+  width: 70%;
+  margin-top: 2%;
+  margin-left: 10.3%;
+  display: flex;
+  position: absolute;
+  z-index: 3;
+  /* border: solid; */
+}
+
+.Legiao {
+  height: 18%;
+  width: 9%;
+  margin-top: 32%;
+  margin-left: 81%;
+  /* position: absolute; */
+  z-index: 2;
+  border: solidd;
+}
+
+#FundoMain {
+  display: flex;
+}
+
+.Robot {
+  height: 200%;
+  width: 36%;
+  margin-top: 2.3%;
+  position: absolute;
+  border: solid;
+}
+
+.ComeceAJogar {
+  margin-left: 11%;
+  height: 55%;
+  width: 25%;
+  z-index: 3;
+} 
+
+/* .Branco {
+  height: 55%;
+  width: 80%;
+  margin-top: 2.3%;
+  border: solid;
+} */
+
+.Sobre {
+  height: 35%;
+  width: 40%;
+  margin-top: 25%;
+  margin-left: 15%;
+}
