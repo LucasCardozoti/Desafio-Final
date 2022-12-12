@@ -1,0 +1,259 @@
+@media(min-width:360px) and (max-width: 500px){
+    .Legiao {
+        height: 30%;
+        width: 13%;
+        margin-top: 35%;
+        margin-left: 80%;
+        display: flex;
+        z-index: 2;
+      }
+
+      .ComeceAJogarMobile {
+        display: initial;
+        margin-top: 55%;
+        margin-left: 29.6%;
+        position: absolute;
+        height: 200%;
+        width: 59.986%;
+        z-index: 1;
+      }
+
+      .ComeceAJogar {
+        display: none;
+      }
+
+      #FundoMain {
+        height: 107vh;
+        display: flex;
+        position: relative;
+      }
+
+      .Robot {
+        background-image: url(/imagens/robot.png);
+        height: 40%;
+        width: 70%;
+        position: absolute;
+      }
+
+      .SobreOJogoMobile {
+        display: initial;
+        height: 30%;
+        width: 81%;
+        margin-top: 105%;
+        margin-left: 9%;
+        position: absolute;
+      }
+
+      .SobreOJogo {
+         display: none;
+        }
+
+      .LinhaCinza {
+        height: 3%;
+        width: 80%;
+        margin-top: 175%;
+        margin-left: 10%;
+        position: absolute;
+      }
+    .Lord {
+        display: none;
+    }
+
+    .EstruturaDoJogo {
+        display: none;
+    }
+
+    .Rey {
+        display: none;
+    }
+
+    .Grupo {
+        display: initial;
+        height: 20%;
+        width: 90%;
+        margin-top: 185%;
+        margin-left: 7%;
+
+    }
+    #FundoMain2 {
+        height: 180vh;
+        background-color: #2D2D2D;
+        
+      }
+
+      .Atributos {
+        height: 4%;
+        width: 28%;
+        margin-top: 10$;
+        margin-left: 35%;
+      }
+
+      .Galeria {
+        display: flex;
+        flex-direction: column;
+        margin-top: 5%;
+      }
+      
+      .GraficosMobile {
+        display: initial;
+        height: 26%;
+        width: 85%;
+        z-index: 2;
+        margin-left: 7.5%;
+        margin-top: 51.5%;
+        position: absolute;
+      }
+
+      .Graficos {
+        display: none;
+      }
+
+      .Hierarquia {
+        height: 15%;
+        width: 100%;
+        margin-top: 172%;
+        margin-left: 0%;
+      }
+
+      .TextoMobile {
+        display: initial;
+        height: 4.5%;
+        width: 80%;
+        margin-left: 15%;
+        position: absolute;
+      }
+
+      .Texto {
+        display: none;
+      }
+
+      .Capitao {
+        height: 85%;
+        width: 100%;
+        z-index: 1;
+        position: absolute;
+        margin-top: 8%;
+        margin-left: -40%;
+      }
+
+      .ComoJogar {
+        height: 1.5%;
+        width: 40%;
+        margin-top: 20%;
+        margin-left: 45%;
+        position: relative;
+      }
+
+      #FundoFooter {
+        display: flex;
+      }
+
+      .Download {
+        display: none;
+      }
+
+      .Escolher {
+        display: none;
+      }
+
+      .Explorar {
+        display: none;
+      }
+
+      .GrupoDownload {
+        display: initial;
+        height: 60%;
+        width: 40%;
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 50%;
+      }
+
+      .LinhaVermelha {
+        display: none;
+      }
+
+      .LinhaPreta {
+        display: none;
+      }
+
+      .LinhaPreta2 {
+        display: none;
+      }
+
+      .FundoVermelho {
+        height: 100%;
+        width: 100%;
+        margin-top: 150%;
+        position: absolute;
+      }
+
+      .Aplicativo {
+        height: 6%;
+        width: 80%;
+        position: absolute;
+        margin-top: 160%;
+        margin-left: 10%;
+      }
+      
+      .ComunidadeMobile {
+        display: initial;
+        height: 60%;
+        width: 83%;
+        margin-top: 178%;
+        margin-left: 10%;
+        z-index: 1;
+      }
+
+      .Comunidade {
+        display: none;
+      }
+
+      .GooglePlay {
+        height: 8%;
+        width: 40%;
+        margin-top: 208%;
+        margin-left: 8%;
+      }
+
+      .AppStore {
+        height: 8%;
+        width: 40%;
+        margin-top: 208%;
+        margin-left: 52%;
+      }
+
+      .VermelhaMaior {
+        height: 0.7%;
+        width: 84%;
+        margin-top: 227%;
+        margin-left: 8%;
+      }
+
+      .StarWars {
+        height: 15%;
+        width: 50%;
+        margin-top: 240%;
+        margin-left: 25%;
+      }
+      
+      .PoliticasMobile {
+        display: initial;
+        height: 10%;
+        width: 85%;
+        position: absolute;
+        margin-top: 278%;
+        margin-left: 8%;
+      }
+
+      .Politicas {
+        display: none;
+      }
+
+      .DarthVader {
+        height: 60%;
+        width: 100%;
+        margin-top: 300%;
+        margin-left: 1%;
+      }
+}
